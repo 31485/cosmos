@@ -29,7 +29,7 @@
                 "isVirtualNetworkFilterEnabled": false,
                 "virtualNetworkRules": [],
                 "disableKeyBasedMetadataWriteAccess": false,
-                "enableFreeTier": true,
+                "enableFreeTier": false,
                 "enableAnalyticalStorage": false,
                 "analyticalStorageConfiguration": {},
                 "databaseAccountOfferType": "Standard",
